@@ -1,4 +1,4 @@
-# 120-years-of-Olympics-History-Athletes-and-Results---MS Excel Dashboard
+# 120-years-of-Olympics-History-Athletes-and-Results MS Excel Dashboard
 
 Note - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
 
