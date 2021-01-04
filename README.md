@@ -15,13 +15,13 @@
 * **pivot table, pivot charts, slicers, hyperlinks**
 
 ## Data:-
-1)	ID - Unique number for each athlete
-2)	Name - Athlete's name
-3)	Sex - M or F
-4)	Age - Integer
-5)	Height - In centimeters
-6)	Weight - In kilograms
-7)	Team - Team name
+*	ID - Unique number for each athlete
+*	Name - Athlete's name
+*	Sex - M or F
+*	Age - Integer
+*	Height - In centimeters
+*	Weight - In kilograms
+*	Team - Team name
 8)	NOC - National Olympic Committee 3-letter code
 9)	Games - Year and season
 10)	Year - Integer
