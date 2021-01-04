@@ -60,6 +60,11 @@
 ![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Total%20Domination%20by%20winning%20gold.png)
 
 ## Dashboard building
+* Use pivot table to get the required data corresponds to that objective.
+* Use pivot chart to draw a charts to show Data Analysis.
+* Add a Hyperlink to each and every charts.
+* Add a Hyperlink to data on which I made this dashboard.
+* Add slicers and connect them with the import graph to get more accurate results.
 
 ### Header of the Dashboard
 ![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Starting%20Header.png)
