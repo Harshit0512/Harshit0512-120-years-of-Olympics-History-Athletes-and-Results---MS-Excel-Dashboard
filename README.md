@@ -8,12 +8,10 @@
 * Did **Data Analysis**
 * Built a **Dashboard** for this dataset using **MS Excel**.
 * **Note:-** The Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
-<br>
 
 ## Resources Used
 * **Ms Excel 2016**
 * **pivot table, pivot charts, slicers, hyperlinks**
-<br>
 
 ## Data:-
 *	ID - Unique number for each athlete
@@ -43,7 +41,6 @@
 *	What are the total number and percentage of female and male participated in an Olympics according to season, year or countries.
 *	Performance of a country according to year.
 *	Top countries and athletes who won medal according to year, sex( female or male), sports, events or seasons.
-<br>
 
 ## Data Cleaning
 * Fill the NaN values of Age, Height and Weight with the **Average** of that respective column.
