@@ -22,14 +22,14 @@
 *	Height - In centimeters
 *	Weight - In kilograms
 *	Team - Team name
-8)	NOC - National Olympic Committee 3-letter code
-9)	Games - Year and season
-10)	Year - Integer
-11)	Season - Summer or Winter
-12)	City - Host city
-13)	Sport - Sport
-14)	Event - Event
-15)	Medal - Gold, Silver, Bronze, or NA
+*	NOC - National Olympic Committee 3-letter code
+*	Games - Year and season
+*	Year - Integer
+*	Season - Summer or Winter
+*	City - Host city
+*	Sport - Sport
+*	Event - Event
+*	Medal - Gold, Silver, Bronze, or NA
 
 
-Note - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
+**Note** - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
