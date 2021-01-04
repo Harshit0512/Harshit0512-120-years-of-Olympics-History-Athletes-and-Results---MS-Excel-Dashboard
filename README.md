@@ -13,7 +13,7 @@
 * **Ms Excel 2016**
 * **pivot table, pivot charts, slicers, hyperlinks**
 
-## Data:-
+## Data
 *	ID - Unique number for each athlete
 *	Name - Athlete's name
 *	Sex - M or F
