@@ -14,4 +14,22 @@
 * **Ms Excel 2016**
 * **pivot table, pivot charts, slicers, hyperlinks**
 
+## Data:-
+1)	ID - Unique number for each athlete
+2)	Name - Athlete's name
+3)	Sex - M or F
+4)	Age - Integer
+5)	Height - In centimeters
+6)	Weight - In kilograms
+7)	Team - Team name
+8)	NOC - National Olympic Committee 3-letter code
+9)	Games - Year and season
+10)	Year - Integer
+11)	Season - Summer or Winter
+12)	City - Host city
+13)	Sport - Sport
+14)	Event - Event
+15)	Medal - Gold, Silver, Bronze, or NA
+
+
 Note - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
