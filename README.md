@@ -13,7 +13,7 @@
 ## Resources Used
 * **Ms Excel 2016**
 * **pivot table, pivot charts, slicers, hyperlinks**
-
+<br>
 ## Data:-
 *	ID - Unique number for each athlete
 *	Name - Athlete's name
