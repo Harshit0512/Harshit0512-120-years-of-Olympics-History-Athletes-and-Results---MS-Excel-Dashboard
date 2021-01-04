@@ -31,5 +31,17 @@
 *	Event - Event
 *	Medal - Gold, Silver, Bronze, or NA
 
+## Objectives
+*	How Seasons affect the countries performance in Olympics.
+*	Which Country shows domination in which sport by winning medal.
+*	What are the total number and percentage of female and male won a different medal in an Olympics according to season, year or countries.
+*	Does hosting an Olympic in a particular city affect the performance of country.
+*	How seasons affect the player’s performance in an Olympics.
+*	Does age plays an important role in winning a medal.
+*	Which country shows domination in which event by winning a medal.
+*	What are the total number and percentage of female and male participated in an Olympics according to season, year or countries.
+*	Performance of a country according to year.
+*	Top countries and athletes who won medal according to year, sex( female or male), sports, events or seasons.
+
 
 **Note** - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
