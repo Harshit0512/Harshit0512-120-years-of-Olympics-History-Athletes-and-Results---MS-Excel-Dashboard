@@ -5,7 +5,7 @@
 * This data set is from Kaggle site [[Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)]
 * **Task**:- Create dashboard for this data using MS Excel.
 * This dataset provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
-* Did EDA and Feature Selection To get bettter results.
+* Did **Exploratory Data Analysis (EDA)** and **Feature Selection** To get bettter results.
 <br>
 
 ## Resources Used
