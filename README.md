@@ -48,4 +48,7 @@
 * Made a new column for **country**.
 * Gave the proper data format to some columns.
 
+## EDA and Feature Selection Results
+
+
 **Note** - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
