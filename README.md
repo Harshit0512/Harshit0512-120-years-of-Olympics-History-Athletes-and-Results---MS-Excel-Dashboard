@@ -7,6 +7,7 @@
 * Did **Exploratory Data Analysis (EDA)** and **Feature Selection** To get bettter results.
 * Did **Data Analysis**
 * Built a **Dashboard** for this dataset using **MS Excel**.
+* **Note:-** The Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
 <br>
 
 ## Resources Used
