@@ -49,6 +49,6 @@
 * Gave the proper data format to some columns.
 
 ## EDA and Feature Selection Results
-
+![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Chances%20to%20win%20medal%20w.r.t%20height.png)
 
 **Note** - As a file is greater than 25mb I had converted the file in two zip files. One have dashboard and other have pivot table and charts. You have to download both the files then only it will work otherwise it wll not work on your system.
