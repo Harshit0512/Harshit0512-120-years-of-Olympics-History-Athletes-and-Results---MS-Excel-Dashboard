@@ -50,7 +50,7 @@
 
 ## EDA and Feature Selection Results
 <img align="left" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Chances%20to%20win%20medal%20w.r.t%20height.png" />
-<img align="centre" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20Seasons.png" />
+<img align="right" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20Seasons.png" />
 ![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20city.png)
 ![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20year.png)
 ![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png)
