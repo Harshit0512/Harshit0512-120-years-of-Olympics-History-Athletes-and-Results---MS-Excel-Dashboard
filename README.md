@@ -49,18 +49,24 @@
 * Gave the proper data format to some columns.
 
 ## EDA and Feature Selection Results
-<div align="center">
+<div>
+<div align="left">
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Chances%20to%20win%20medal%20w.r.t%20height.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20Seasons.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20city.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20year.png" />
+</div>
+<div="right">
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Teams%20Contribution%20to%20Countries%20Medal%20Tally.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top%20Countries%20by%20winning%20medals.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top_Athletes.png" />
+</div>  
+<div="center">
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Total%20Domination%20by%20winning%20gold.png" />
-<br>
 </div>
+</div>
+<br>
 
 ## Dashboard building
 * Use pivot table to get the required data corresponds to that objective.
