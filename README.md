@@ -54,7 +54,8 @@
 <img  alt="PNG" width="500px" height = "292px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20Seasons.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20city.png" />
 <img  alt="PNG" width="500px" height = "292px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20year.png" />
-<img  alt="PNG" width="500px" height = "292px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png" />
+<img  alt="PNG" width="500px" height = "300px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png" />
+  
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Teams%20Contribution%20to%20Countries%20Medal%20Tally.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top%20Countries%20by%20winning%20medals.png" />
 <img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top_Athletes.png" />
