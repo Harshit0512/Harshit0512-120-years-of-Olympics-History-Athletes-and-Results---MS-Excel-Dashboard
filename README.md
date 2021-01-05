@@ -54,11 +54,11 @@
 
 <img align="left" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20city.png" /><img align="right" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Countries%20Performance%20according%20to%20year.png" />
 
-![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png)
-![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Teams%20Contribution%20to%20Countries%20Medal%20Tally.png)
-![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top%20Countries%20by%20winning%20medals.png)
-![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top_Athletes.png)
-![alt text](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Total%20Domination%20by%20winning%20gold.png)
+<img align="left" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Percentage%20of%20winning%20medal%20w.r.t%20age.png" /><img align="right" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Teams%20Contribution%20to%20Countries%20Medal%20Tally.png" />
+
+<img align="left" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top%20Countries%20by%20winning%20medals.png" /><img align="right" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Top_Athletes.png" />
+<img align="left" alt="PNG" width="500px" src="https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard/blob/main/EDA%20Results/Total%20Domination%20by%20winning%20gold.png" />
+
 
 ## Dashboard building
 * Use pivot table to get the required data corresponds to that objective.
