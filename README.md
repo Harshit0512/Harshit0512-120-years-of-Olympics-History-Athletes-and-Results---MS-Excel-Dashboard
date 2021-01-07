@@ -1,4 +1,4 @@
-# 120 years of Olympics History Athletes and Results MS Excel Dashboard: Project Overview
+# 120 years of Olympics History Athletes and Results MS Excel Dashboard: Project Overview 
 
 ## Introduction
 * This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
