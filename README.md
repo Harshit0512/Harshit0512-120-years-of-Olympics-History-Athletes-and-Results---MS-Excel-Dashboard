@@ -2,7 +2,7 @@
 
 ## Introduction
 * This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-* This data set is from Kaggle site [[Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)]
+* This dataset is from Kaggle site [[Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)]
 * This dataset provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 * Did **Exploratory Data Analysis (EDA)** and **Feature Selection** To get bettter results.
 * Did **Data Analysis**
